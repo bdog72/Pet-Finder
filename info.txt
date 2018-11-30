@@ -1,0 +1,8 @@
+Project started 11-29-18 -- 08:30am
+Project finished 11-30-18 -- 06:10am
+
+Created Github repo and pushed 11-30-18  --  06:20am
+
+Final surge deploy  11-30-18  -- 06:25am
+
+surge http://painstaking-wax.surge.sh
